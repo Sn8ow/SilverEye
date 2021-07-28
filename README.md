@@ -1,0 +1,2 @@
+# SilverEye
+Discord Raid Tool
